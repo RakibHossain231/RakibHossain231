@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rakib Hossain</h1>
 <h3 align="center">I'm a student of the United International University Department of CSE</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberxenon202&label=Profile%20views&color=0e75b6&style=flat" alt="cyberxenon202" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RakibHossain231&label=Profile%20views&color=0e75b6&style=flat" alt="RakibHossain231" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cyberxenon202" target="blank"><img src="https://img.shields.io/twitter/follow/cyberxenon202?logo=twitter&style=for-the-badge" alt="cyberxenon202" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RakibHossain231" target="blank"><img src="https://img.shields.io/twitter/follow/RakibHossain231?logo=twitter&style=for-the-badge" alt="RakibHossain231" /></a> </p>
 
 - 🌱 I’m currently learning **mySQL, js, php**
 
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/cyberxenon202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberxenon202" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cyberxenon202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberxenon202" height="30" width="40" /></a>
-<a href="https://fb.com/cyberxenon202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyberxenon202" height="30" width="40" /></a>
-<a href="https://instagram.com/cyberxenon202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberxenon202" height="30" width="40" /></a>
+<a href="https://twitter.com/RakibHossain231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyberxenon202" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/RakibHossain231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RakibHossain231" height="30" width="40" /></a>
+<a href="https://fb.com/RakibHossain231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="RakibHossain231" height="30" width="40" /></a>
+<a href="https://instagram.com/RakibHossain231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RakibHossain231" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cyberxenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cyberxenon" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/cyberxenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cyberxenon" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cyberxenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cyberxenon" height="30" width="40" /></a>
