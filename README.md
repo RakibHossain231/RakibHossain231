@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/RakibHossain231" target="blank"><img src="https://img.shields.io/twitter/follow/RakibHossain231?logo=twitter&style=for-the-badge" alt="RakibHossain231" /></a> </p>
 
 - 🌱 I’m currently learning **mySQL, js, php**
-- 
+
 - 🔭 I’m currently working on [Geo trips](https://github.com/NurTamim331/geo_trips)
 
 - 💬 Ask me about **CSE Student**
