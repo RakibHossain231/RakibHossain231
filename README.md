@@ -75,9 +75,10 @@
 <h3 align="left">📊 GitHub Statistics:</h3>
 
 <p>
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossain231&layout=compact&langs_count=6&theme=default" />
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=rakibhossain231&show_icons=true&locale=en&theme=default" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossain231&layout=compact&langs_count=6&theme=default" style="border: 2px solid #ccc; border-radius: 8px; padding: 5px;" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=rakibhossain231&show_icons=true&locale=en&theme=default" style="border: 2px solid #ccc; border-radius: 8px; padding: 5px;" />
 </p>
+
 
 
 <br><br><br><br><br><br><br>
