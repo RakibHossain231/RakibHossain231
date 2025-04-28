@@ -79,12 +79,6 @@
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=rakibhossain231&show_icons=true&locale=en&theme=default" />
 </p>
 
+
 <br><br><br><br><br><br><br>
-
----
-
-<!-- Snake Animation -->
-<h3 align="left">🐍 Watch my contribution graph get eaten by a Snake!</h3>
-
-![Snake animation](https://github.com/rakibhossain231/rakibhossain231/blob/output/github-contribution-grid-snake.svg)
 
