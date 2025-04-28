@@ -74,16 +74,14 @@
 <!-- GitHub Stats and Top Languages -->
 <h3 align="left">📊 GitHub Statistics:</h3>
 
-<table>
   <tr>
-    <td width="50%">
+    <td width="45%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossain231&layout=compact&langs_count=6&theme=default" />
     </td>
-    <td width="50%">
+    <td width="55%">
       <img src="https://github-readme-stats.vercel.app/api?username=rakibhossain231&show_icons=true&locale=en&theme=default" />
     </td>
   </tr>
-</table>
 
 
 
