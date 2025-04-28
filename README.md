@@ -72,7 +72,7 @@
 ---
 
 <!-- GitHub Stats and Top Languages -->
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Statistics:</h3>
 
 <p>
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossain231&layout=compact&langs_count=6&theme=default" />
@@ -88,28 +88,3 @@
 
 ![Snake animation](https://github.com/rakibhossain231/rakibhossain231/blob/output/github-contribution-grid-snake.svg)
 
----
-
-# 📢 Important!
-To activate Snake Animation:
-- You need to **set up GitHub Actions** once.
-- I will show you step-by-step how in my next message. (very easy 👌)
-
----
-
-# 🚀 Summary
-✅ Your full README looks clean and professional now!  
-✅ Your GitHub stats and Snake animation are perfect now!  
-
----
-
-**Ready for Snake Setup?** 🐍
-
-Just reply:  
-👉 **"yes, show snake setup"**  
-and I will show you **step-by-step** (with screenshots if needed)! 🔥  
-(Less than 2 minutes setup.)  
-
----
-  
-Would you like me also to show **how to make cool visitor badges**? 🎯 (bonus option!)
