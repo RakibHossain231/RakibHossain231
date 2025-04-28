@@ -16,7 +16,7 @@
 
 <!-- About Me Section -->
 - 🌱 I’m currently learning **MySQL, JavaScript, and PHP**  
-- 🔭 I’m currently working on [Geo Trips](https://github.com/NurTamim331/geo_trips)  
+- 🔭 I’m currently working on [Geo Trips Project Of DMBMS Course](https://github.com/NurTamim331/geo_trips)  
 - 💬 Ask me about **my CSE journey**  
 - 📫 How to reach me: **rakibrazcse@gmail.com**  
 - ⚡ Fun fact: **I think I’m funny!**
