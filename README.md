@@ -31,5 +31,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhossain231&show_icons=true&locale=en&layout=compact)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RakibHossain231&show_icons=true&locale=en&layout=compact" alt="RakibHossain231" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RakibHossain231&show_icons=true&locale=en" alt="RakibHossain231" /></p>
