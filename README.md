@@ -16,7 +16,7 @@
 
 <!-- About Me Section -->
 - 🌱 I’m currently learning **MySQL, JavaScript, and PHP**
-- 🔭 I’m currently working on [Student hepls Project Of AOOP Course](https://github.com/RakibHossain231/AOOP-project)
+- 🔭 I’m currently working on [Student helps Project Of AOOP Course](https://github.com/RakibHossain231/AOOP-project)
 - 💬 Ask me about **my CSE journey**  
 - 📫 How to reach me: **rakibrazcse@gmail.com**  
 - ⚡ Fun fact: **I think I’m funny!**
