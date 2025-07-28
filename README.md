@@ -15,8 +15,8 @@
 </p>
 
 <!-- About Me Section -->
-- 🌱 I’m currently learning **MySQL, JavaScript, and PHP**  
-<!-- - 🔭 I’m currently working on [Geo Trips Project Of DBMS Course](https://github.com/RakibHossain231/dbms-project-geo-trip)  -->
+- 🌱 I’m currently learning **MySQL, JavaScript, and PHP**
+- 🔭 I’m currently working on [Student hepls Project Of AOOP Course](https://github.com/RakibHossain231/AOOP-project)
 - 💬 Ask me about **my CSE journey**  
 - 📫 How to reach me: **rakibrazcse@gmail.com**  
 - ⚡ Fun fact: **I think I’m funny!**
