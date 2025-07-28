@@ -15,7 +15,7 @@
 </p>
 
 <!-- About Me Section -->
-- 🌱 I’m currently learning **MySQL, JavaScript, and PHP**
+- 🌱 I’m currently learning **JavaFx and JavaScript**
 - 🔭 I’m currently working on [Student helps Project Of AOOP Course](https://github.com/RakibHossain231/AOOP-project)
 - 💬 Ask me about **my CSE journey**  
 - 📫 How to reach me: **rakibrazcse@gmail.com**  
