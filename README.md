@@ -81,7 +81,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=rakibhossain231&show_icons=true&locale=en&theme=default" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=NurTamim331&theme=radical" />
+      <p align="center" style="display:flex">
+        <img src="https://github-readme-stats.vercel.app/api?username=NurTamim331&show_icons=true&theme=radical" alt="tamim-stats" />
+        <br/>
+        <img src="https://streak-stats.demolab.com?user=NurTamim331&theme=radical" />
+    </p>
     </td>
   </tr>
 </table>
