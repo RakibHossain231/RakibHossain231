@@ -85,7 +85,7 @@
 
 <table>
    <tr>
-    <td td width="100%>
+    <td td width="500%>
       <p align="center" style="display:flex">
         <img src="https://streak-stats.demolab.com?user=RakibHossain231&theme=radical" />
       </p>
