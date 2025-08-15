@@ -72,7 +72,7 @@
 <!-- GitHub Stats, Top Languages & Streak -->
 <h3 align="left">📊 GitHub Statistics:</h3>
 
-<table width="120%">
+<table width="150%">
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhossain231&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=RakibHossain231&theme=radical" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=RakibHossain231&theme=default" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
