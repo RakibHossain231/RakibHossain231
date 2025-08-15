@@ -88,4 +88,12 @@
   </tr>
 </table>
 
+
+---
+
+### 📌 Projects (in progress or completed)
+- 🚀 **Travel Agency Management System** – Full-stack PHP + MySQL + HTML/CSS/JS  
+- 🧠 **Mini React Web Apps** – Learning by building  
+- 🧹 **Clean UI Designs** – Using TailwindCSS and modern layout principles  
+
 <br><br><br><br><br><br><br>
