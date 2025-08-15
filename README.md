@@ -69,21 +69,21 @@
 
 ---
 
-<!-- GitHub Stats, Top Languages & Streak -->
+<!-- GitHub Stats, Top Languages & Streak with Border -->
 <h3 align="left">📊 GitHub Statistics:</h3>
 
-<table width="150%">
+<table width="100%" border="1" cellspacing="0" cellpadding="10">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhossain231&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
     </td>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=rakibhossain231&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=RakibHossain231&theme=default" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=RakibHossain231&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
