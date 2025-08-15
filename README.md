@@ -72,7 +72,7 @@
 <!-- GitHub Stats, Top Languages & Streak -->
 <h3 align="left">📊 GitHub Statistics:</h3>
 
-<table width="100%">
+<table width="120%">
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhossain231&layout=compact&langs_count=6&theme=default" alt="Top Languages" />
