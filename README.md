@@ -81,7 +81,10 @@
       <img src="https://github-readme-stats.vercel.app/api?username=rakibhossain231&show_icons=true&locale=en&theme=default" />
     </td>
   </tr>
-  <tr>
+</table>
+
+<table>
+   <tr>
     <td td width="100%>
       <p align="center" style="display:flex">
         <img src="https://streak-stats.demolab.com?user=RakibHossain231&theme=radical" />
