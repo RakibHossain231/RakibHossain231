@@ -7,12 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=rakibhossain231&label=Profile%20views&color=0e75b6&style=flat" alt="rakibhossain231" />
 </p>
 
-<!-- Twitter Follow Badge -->
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" />
-  </a>
-</p>
+<!-- LinkedIn Follow Badge -->
+[![LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username/)
+
 
 
 <!-- About Me Section -->
