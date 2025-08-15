@@ -83,17 +83,9 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=RakibHossain231&theme=radical" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=RakibHossain231&theme=default" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-
-
-
-
-
-
-
 <br><br><br><br><br><br><br>
-
