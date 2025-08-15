@@ -9,10 +9,11 @@
 
 <!-- Twitter Follow Badge -->
 <p align="left">
-  <a href="https://twitter.com/RakibHossain231" target="blank">
-    <img src="https://img.shields.io/twitter/follow/RakibHossain231?logo=twitter&style=for-the-badge" alt="RakibHossain231" />
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" />
   </a>
 </p>
+
 
 <!-- About Me Section -->
 - 🌱 I’m currently learning **JavaFx and JavaScript**
