@@ -75,7 +75,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?  username=rakibhossain231&layout=compact&langs_count=6&theme=default"         />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/username=rakibhossain231&layout=compact&langs_count=6&theme=default"/>
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=rakibhossain231&show_icons=true&locale=en&theme=default" />
