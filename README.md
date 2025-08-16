@@ -92,9 +92,24 @@
 ---
 
 ### 📌 Projects (in progress or completed)
-[Student helps Project Of AOOP Course](https://github.com/RakibHossain231/AOOP-project)
+- 🛠️**Student helps Project Of AOOP Course (Progress)**  [AOOP Project](https://github.com/RakibHossain231/AOOP-project)
 - 🚀 **Travel Agency Management System** – Backend PHP + MySQL ([DBMS Project](https://github.com/RakibHossain231/DBMS-project-Geo_Trips))
 - 🧠 **Smart Pet Feeder** – ([Electronics Lab Project](https://github.com/RakibHossain231/Electronics-Lab)) 
 - 🧹 **SSC Result Calculator** ([SPL Project](https://github.com/RakibHossain231/SPL-Project))  
+
+---
+
+### 📚 Learning Goals
+- JavaFX, Scene Buider
+- API Development & Integration
+- Design patterns and optimization
+- Building client-friendly UX and UI
+- Solving Real Life Problems
+
+---
+
+### 🌱 Life Principles I Follow
+> "Discipline beats motivation. Small daily tasks build great achievements. Learn, grow, and stay consistent."
+
 
 <br><br><br><br><br><br><br>
