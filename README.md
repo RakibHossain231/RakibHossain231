@@ -92,8 +92,9 @@
 ---
 
 ### 📌 Projects (in progress or completed)
-- 🚀 **Travel Agency Management System** – Full-stack PHP + MySQL + HTML/CSS/JS  
-- 🧠 **Mini React Web Apps** – Learning by building  
-- 🧹 **Clean UI Designs** – Using TailwindCSS and modern layout principles  
+[Student helps Project Of AOOP Course](https://github.com/RakibHossain231/AOOP-project)
+- 🚀 **Travel Agency Management System** – Backend PHP + MySQL ([DBMS Project](https://github.com/RakibHossain231/DBMS-project-Geo_Trips))
+- 🧠 **Smart Pet Feeder** – ([Electronics Lab Project](https://github.com/RakibHossain231/Electronics-Lab)) 
+- 🧹 **SSC Result Calculator** ([SPL Project](https://github.com/RakibHossain231/SPL-Project))  
 
 <br><br><br><br><br><br><br>
