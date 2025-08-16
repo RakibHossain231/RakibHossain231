@@ -5,10 +5,12 @@
 <!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rakibhossain231&label=Profile%20views&color=0e75b6&style=flat" alt="rakibhossain231" />
+  <!-- LinkedIn Follow Badge -->
+  [![LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/RakibHossain231/)
 </p>
 
-<!-- LinkedIn Follow Badge -->
-[![LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username/)
+
+
 
 
 
@@ -100,7 +102,7 @@
 ---
 
 ### 📚 Learning Goals
-- JavaFX, Scene Buider
+- JavaFX, Scene Builder
 - API Development & Integration
 - Design patterns and optimization
 - Building client-friendly UX and UI
@@ -109,7 +111,6 @@
 ---
 
 ### 🌱 Life Principles I Follow
-> "Discipline beats motivation. Small daily tasks build great achievements. Learn, grow, and stay consistent."
+"Discipline beats motivation. Small daily tasks build great achievements. Learn, grow, and stay consistent."
 
-
-<br><br><br><br><br><br><br>
+---
