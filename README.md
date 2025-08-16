@@ -5,9 +5,10 @@
 <!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rakibhossain231&label=Profile%20views&color=0e75b6&style=flat" alt="rakibhossain231" />
-  <!-- LinkedIn Follow Badge -->
-  [![LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/RakibHossain231/)
 </p>
+
+<!-- LinkedIn Follow Badge -->
+  [![LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/RakibHossain231/)
 
 
 
@@ -94,7 +95,7 @@
 ---
 
 ### 📌 Projects (in progress or completed)
-- 🛠️**Student helps Project Of AOOP Course (Progress)**  [AOOP Project](https://github.com/RakibHossain231/AOOP-project)
+- 🛠️**Student helps Project Of AOOP Course (In Progress)**  [AOOP Project](https://github.com/RakibHossain231/AOOP-project)
 - 🚀 **Travel Agency Management System** – Backend PHP + MySQL ([DBMS Project](https://github.com/RakibHossain231/DBMS-project-Geo_Trips))
 - 🧠 **Smart Pet Feeder** – ([Electronics Lab Project](https://github.com/RakibHossain231/Electronics-Lab)) 
 - 🧹 **SSC Result Calculator** ([SPL Project](https://github.com/RakibHossain231/SPL-Project))  
