@@ -17,7 +17,7 @@
 
 <!-- About Me Section -->
 - 🌱 I’m currently learning **JavaFx and JavaScript**
-- 🔭 I’m currently working on [Student helps Project Of AOOP Course](https://github.com/RakibHossain231/AOOP-project)
+- 🔭 I’m currently working on [Student helps Project Of AOOP Course](https://github.com/RakibHossain231/AchieveKIT), [Families Tree Project](https://github.com/RakibHossain231/FamiliesTree)
 - 💬 Ask me about **my CSE journey**  
 - 📫 How to reach me: **rakibrazcse@gmail.com**  
 - 💡 I believe in structured learning, discipline, and lifelong curiosity
@@ -95,7 +95,8 @@
 ---
 
 ### 📌 Projects (in progress or completed)
-- 🛠️**Student helps Project Of AOOP Course (In Progress)**  [AOOP Project](https://github.com/RakibHossain231/AOOP-project)
+- 👨‍👨‍👧‍👧 **Families Tree [Personal Project] (In Progress) ** [Families Tree](https://github.com/RakibHossain231/FamiliesTree)
+- 🛠️ **Student helps Project Of AOOP Course (In Progress)**  [AOOP Project](https://github.com/RakibHossain231/AchieveKIT)
 - 🚀 **Travel Agency Management System** – Backend PHP + MySQL ([DBMS Project](https://github.com/RakibHossain231/DBMS-project-Geo_Trips))
 - 🧠 **Smart Pet Feeder** – ([Electronics Lab Project](https://github.com/RakibHossain231/Electronics-Lab)) 
 - 🧹 **SSC Result Calculator** ([SPL Project](https://github.com/RakibHossain231/SPL-Project))  
