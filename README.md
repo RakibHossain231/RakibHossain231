@@ -17,7 +17,7 @@
 
 <!-- About Me Section -->
 - 🌱 I’m currently learning **JavaFx and JavaScript**
-- 🔭 I’m currently working on [Student helps Project Of AOOP Course](https://github.com/RakibHossain231/AchieveKIT), [Families Tree Project](https://github.com/RakibHossain231/FamiliesTree)
+- 🔭 I’m currently working on [AchieveKIT Of AOOP Course](https://github.com/RakibHossain231/AchieveKIT), [Families Tree Project](https://github.com/RakibHossain231/FamiliesTree)
 - 💬 Ask me about **my CSE journey**  
 - 📫 How to reach me: **rakibrazcse@gmail.com**  
 - 💡 I believe in structured learning, discipline, and lifelong curiosity
