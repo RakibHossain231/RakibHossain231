@@ -74,7 +74,7 @@
     <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   </a>
-  <a href="https://github.com/mit-pdos/xv6-public" target="_blank" rel="noreferrer">
+  <a href="https://github.com/mit-pdos/xv6-riscv" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" alt="xv6" width="40" height="40" />
   </a>
 
