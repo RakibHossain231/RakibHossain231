@@ -16,7 +16,7 @@
 
 
 <!-- About Me Section -->
-- 🌱 I’m currently learning **Linux Command, Figma, Jira, Git, and SE theory**
+- 🌱 I’m currently learning **Linux Command, Figma, Jira, Git, and OS xv6 modification**
 - 🔭 I’m currently working on [Families Tree Project](https://github.com/RakibHossain231/FamiliesTree)
 - 💬 Ask me about **my CSE journey**  
 - 📫 How to reach me: **rakibrazcse@gmail.com**  
