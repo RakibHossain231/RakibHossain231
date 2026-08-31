@@ -16,10 +16,10 @@
 
 
 <!-- About Me Section -->
-- 🌱 I’m currently learning **Machine Learning, Network Security, Web programming**
-- 🔭 I’m currently working on [Families Tree Project](https://github.com/RakibHossain231/FamiliesTree)
+- 🌱 I’m currently learning **Cryptogrphy, Data Communication**
+- 🔭 I’m currently working on [Families Tree Project](https://github.com/RakibHossain231/FamiliesTree), [Laga Tour project](https://github.com/RakibHossain231/Lagatour)
 - 💬 Ask me about **my CSE journey**  
-- 📫 How to reach me: **rakibrazcse@gmail.com**  
+- 📫 How to reach me: **rakibhossain@outlook.com**  
 - 💡 I believe in structured learning, discipline, and lifelong curiosity
 
 ---
@@ -106,6 +106,7 @@
 ---
 
 ### 📌 Projects (in progress or completed)
+- 🌍 **LagaTour [SE Projec] (In Progress)** [LagaTour](https://github.com/RakibHossain231/LagaTour)
 - 👨‍👨‍👧‍👧**Families Tree [Personal Project] (In Progress)** [Families Tree](https://github.com/RakibHossain231/FamiliesTree)
 - 🛠️ **Student helps Project Of AOOP Course**  [AOOP Project](https://github.com/RakibHossain231/AOOP-project)
 - 🚀 **Travel Agency Management System** – Backend PHP + MySQL ([DBMS Project](https://github.com/RakibHossain231/DBMS-project-Geo_Trips))
