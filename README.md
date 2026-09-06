@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Cryptogrphy, Data Communication**
 - 🔭 I’m currently working on [Families Tree Project](https://github.com/RakibHossain231/FamiliesTree), [LagaTour project](https://github.com/RakibHossain231/LagaTour)
 - 💬 Ask me about **my CSE journey**  
-- 📫 How to reach me: **rakibhossain231@outlook.com**  
+- 📫 How to reach me: **rakibhossain0308@gmail.com**  
 - 💡 I believe in structured learning, discipline, and lifelong curiosity
 
 ---
