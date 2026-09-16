@@ -121,6 +121,7 @@
 - Reinforcement Learning
 - SUMO
 - NS3
+- LaTex
 
 ---
 
