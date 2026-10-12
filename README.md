@@ -105,7 +105,7 @@
 
 ### 📌 Projects (in progress or completed)
 - 👨‍👨‍👧‍👧**Families Tree [Personal Project] (In Progress)** [Families Tree](https://github.com/RakibHossain231/FamiliesTree)
-- 🌍 **LagaTour - Software Engineering Course Project (In Progress)** [LagaTour](https://github.com/RakibHossain231/LagaTour)
+- 🌍 **LagaTour - Software Engineering Course Project** [LagaTour](https://github.com/RakibHossain231/LagaTour)
 - 📔 **UIU Note Share - Personal Project** [UIU Note Share](https://github.com/RakibHossain231/UIU-Note-Share)
 - 🎓 **Smart-LearnHub** – Web Programming Course Project ([Smart-LearnHub](https://github.com/RakibHossain231/Smart-LearnHub))
 - 🛠️ **Student helps Project Of AOOP Course**  [AOOP Project](https://github.com/RakibHossain231/AOOP-project)
