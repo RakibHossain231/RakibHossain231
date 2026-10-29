@@ -15,7 +15,7 @@
 
 <!-- About Me Section -->
 - 🌱 I’m currently learning **Cryptogrphy, Data Communication, Reinforcement Learning, SUMO, NS3**
-- 🔭 I’m currently working on [UIU Note Share](https://github.com/RakibHossain231/UIU-Note-Share), [Families Tree Project](https://github.com/RakibHossain231/FamiliesTree) and [autoWISH](https://github.com/RakibHossain231/autoWISH)
+- 🔭 I’m currently working on [UIU Note Share](https://github.com/RakibHossain231/UIU-Note-Share), [Families Tree Project](https://github.com/RakibHossain231/FamiliesTree) and [DearDates](https://github.com/RakibHossain231/DearDates)
 - 💬 Ask me about **my CSE journey**  
 - 📫 How to reach me: **rakibhossain0308@gmail.com**  
 - 💡 I believe in structured learning, discipline, and lifelong curiosity.
@@ -104,7 +104,7 @@
 ---
 
 ### 📌 Projects (in progress or completed)
-- 💌 **autoWISH [Personal Project] (In progress)** [autoWISH](https://github.com/RakibHossain231/autoWISH)
+- 💌 **DearDates [Personal Project] (In progress)** [autoWISH](https://github.com/RakibHossain231/DearDates)
 - 👨‍👨‍👧‍👧**Families Tree [Personal Project] (In Progress)** [Families Tree](https://github.com/RakibHossain231/FamiliesTree)
 - 🌍 **LagaTour - Software Engineering Course Project** [LagaTour](https://github.com/RakibHossain231/LagaTour)
 - 📔 **UIU Note Share - Personal Project** [UIU Note Share](https://github.com/RakibHossain231/UIU-Note-Share)
