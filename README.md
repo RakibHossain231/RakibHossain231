@@ -104,7 +104,7 @@
 ---
 
 ### 📌 Projects (in progress or completed)
-- 💌 **DearDates [Personal Project] (In progress)** [autoWISH](https://github.com/RakibHossain231/DearDates)
+- 💌 **DearDates [Personal Project] (In progress)** [DearDates](https://github.com/RakibHossain231/DearDates)
 - 👨‍👨‍👧‍👧**Families Tree [Personal Project] (In Progress)** [Families Tree](https://github.com/RakibHossain231/FamiliesTree)
 - 🌍 **LagaTour - Software Engineering Course Project** [LagaTour](https://github.com/RakibHossain231/LagaTour)
 - 📔 **UIU Note Share - Personal Project** [UIU Note Share](https://github.com/RakibHossain231/UIU-Note-Share)
